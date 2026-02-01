@@ -4,7 +4,7 @@
 /* Author: Allen Charls Casul                                     */
 /* GitHub: https://github.com/hungrix/voltura                     */
 /* License: https://github.com/hungrix/voltura/blob/main/LICENSE  */
-/* Version: 1.0.0                                                 */
+/* Version: 1.0.1                                                 */
 /* Build Date: 2026-02-1                                          */
 /* -------------------------------------------------------------- */
 
@@ -92,7 +92,6 @@ details, h5, h6, p, small, q, label, caption, legend, abbr, pre {
 code {
   color: var(--primary);
   font-family: var(--font-cascadia-code);
-  font-weight: 700;
 }
 
 /* ========================================================= */
