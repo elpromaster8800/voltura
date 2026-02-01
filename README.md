@@ -11,7 +11,7 @@ Voltura UI adds elegance and personality to your toolkit. Its playful, developer
 ![Github](https://img.shields.io/github/stars/hungrix/voltura)
 
 <a href="https://volturaui.netlify.app/">
- <img src="https://cdn.jsdelivr.net/gh/hungrix/voltura@master/docs/assets/img/voltura.webp" alt="Voltura UI" style="max-width: 100%;" width="300">
+ <img src="https://cdn.jsdelivr.net/gh/hungrix/voltura@master/docs/assets/img/voltura.webp" alt="Voltura UI" style="width: 100%; max-width: 5rem; border-radius: 28px;">
 </a>
 
 ## Installation
@@ -37,5 +37,6 @@ Using Voltura through a CDN (Content Delivery Network).
 Full documentation: [Click here.](https://volturaui.netlify.app)
 
 ## Licensing
+
 
 Copyright Holder: Allen Charls Casul. The source code is licensed under [the MIT license](https://github.com/hungrix/voltura/blob/main/LICENSE).
