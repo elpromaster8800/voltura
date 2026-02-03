@@ -29,7 +29,7 @@ Using Voltura through a CDN (Content Delivery Network).
 ### CDN
 
 ```sh
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hungrix/voltura@3876bbb2c08be262eb8f56b347262f4f090c1dff/dist/production/css/voltura.prod.min.css" integrity="sha256-q7OlBxjGXN1t6Ff+2zt9Y6vM8s1qHmze2Xq5kbd5md8=" crossorigin="anonymous" fetchpriority="high">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hungrix/voltura@c54410cd97369ad32fabe088150f3edb2c23fe4e/dist/production/css/voltura.prod.min.css" integrity="sha256-q7OlBxjGXN1t6Ff+2zt9Y6vM8s1qHmze2Xq5kbd5md8=" crossorigin="anonymous" fetchpriority="high">
 ```
 
 ## Documentation

@@ -15,6 +15,7 @@
 .text-hungry               { color: var(--hungry);               }
 .text-voltura              { color: var(--voltura);              }
 .text-crimson              { color: var(--crimson);              }
+.text-code                 { color: var(--code);                 }
 
 .text-heading-light        { color: var(--heading-light);        }
 .text-title-light          { color: var(--title-light);          }
